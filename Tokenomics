@@ -1,0 +1,82 @@
+Trans Diamond (TDIA) — Tokenomics
+Diamond Bright AI ecosystem · Policy reference: TDIA Whitepaper v2.2 (October 21, 2026)
+
+This document describes TDIA's recorded token specifications, historical allocation targets, and proposed Diamond Bright AI utility/reward policies. Allocation targets are not verified current holdings, and proposed rewards are not active or guaranteed payouts.
+1. Token identity
+Property	Specification
+Token name	Trans Diamond
+Symbol	TDIA
+Blockchain	Base mainnet
+Chain ID	8453
+Token standard	ERC-20
+Contract address	0x8282AC365Ee0159C5381f3267E8D8bC22020986E
+Decimals	18
+Recorded initial supply	1,000,000,000 TDIA
+Supply design	Fixed initial issuance; token burning supported under the original specification
+
+
+The initial supply is not a representation of current circulating supply. Any current total supply, circulating supply, burned amounts, contract permissions, or wallet balances must be checked against the contract and on-chain records before being published as current figures.
+2. Original token allocation framework
+The following figures are historical issuance-policy targets retained from TDIA's original allocation framework, not a verified snapshot of today’s token distribution.
+Allocation category	Target share	Initial target amount
+Rewards and incentives	40%	400,000,000 TDIA
+Company treasury	25%	250,000,000 TDIA
+Liquidity	20%	200,000,000 TDIA
+Development	10%	100,000,000 TDIA
+Partnerships	5%	50,000,000 TDIA
+Total	100%	1,000,000,000 TDIA
+
+
+These targets do not establish actual current custody, vesting, uncommitted reserves, transfer history, or available payout capacity. Any historical obligations, including prior CyberGuard-related commitments, distributions, or burns, must be reconciled rather than assumed cancelled.
+3. Diamond Bright AI utility
+TDIA is intended for specified functions at diamondbrightai.com:
+- Premium guides and educational resources: proposed token-based feature unlocks; the eligible catalog and prices are not yet finalized.
+- Poker math, strategy training, and quizzes: educational participation and eligible achievements; detailed reward conditions must be published for each campaign.
+- TDIA Pro membership: documented intended price of 50,000 TDIA. Checkout is currently disabled pending separate production payment-path verification.
+- Galaxy Arena bot-season rewards: proposed fixed placement awards for qualified, finalized seasons, subject to eligibility, funding, authorization, and legal release conditions.
+A TDIA wallet balance alone does not automatically grant unlimited access to website features. Purchases and entitlements must use the published product-specific terms.
+4. Educational quiz rewards
+The Diamond Bright AI quiz reward design specifies:
+Rule	Amount or limit
+Perfect-score award	1,000 TDIA per eligible quiz
+Limit	One reward per quiz per member account
+Current quiz count	12 quizzes
+Maximum across those 12 quizzes	12,000 TDIA per eligible member account
+
+
+These figures describe the established award rules, not confirmation that on-chain rewards have been funded, approved, or transferred. Eligibility, funded reserve availability, and payout activation must be verified before any public claim that members are currently receiving tokens.
+5. Galaxy Arena seasonal bot awards
+The proposed schedule is based on the final rankings of eligible member-owned bots:
+Finishing place	Proposed award
+1st	50,000 TDIA
+2nd	25,000 TDIA
+3rd	10,000 TDIA
+Full award schedule per qualifying season	85,000 TDIA
+
+
+Multiple-bot ownership rule: Each eligible bot receives its own placement award even when the same member owns other placing bots. If one member owns all three qualifying bots, the member is eligible for 50,000 + 25,000 + 10,000 = 85,000 TDIA, subject to the same approval and payout conditions. Rewards are recorded separately for each qualifying award to prevent duplicates.
+
+Current program status: Season award previews have been implemented and checked locally, but that is not a live on-chain payout system. No award should be described as paid without successful transaction confirmation and reconciliation. Final terms, lawful eligibility, a completed season, wallet verification, owner approval, sufficient reserves, and gas funding are required before transfer.
+
+The Arena uses virtual, nonredeemable chips. TDIA is not an Arena chip, wager, stake, or conversion mechanism for game chips. A purchase, token deposit, token holding, or paid membership is not intended to be required for eligibility under the proposed promotional award policy.
+6. Recorded treasury and reserve addresses
+The whitepaper records these historical roles and addresses:
+Recorded role	Address
+Rewards wallet	0xA444498c7eaB566b87815F90EC4f08b04b70E830
+Rewards reserve	0x8e6E3d90648fbD041b76Da25C25b9B49c3CD38a0
+Treasury	0xEbB29c40692E552d85dDe678BE1a235cDaDf498b
+
+
+These are not verified current balances or standing transfer instructions. Authorized operators must verify control, account balances, commitments, and destination addresses before initiating any transaction. Never commit private keys, seed phrases, or production signing credentials to this repository.
+7. Settlement and supply controls
+- Rewards must come from reconciled, adequately funded reserves, not assumed new minting.
+- A calculated preview is not an approved award; a submitted transaction is not proof of payment.
+- Payout completion requires a successful on-chain receipt, matching token transfer, and reconciliation against an auditable award record.
+- Double-payment protections must apply across seasons, bots, placements, retries, and transaction identifiers.
+- Treasury changes, material allocation changes, and activation status should be disclosed through official channels.
+8. Risks and policy status
+TDIA is intended as a utility and rewards token, not as an equity interest, dividend right, guaranteed repurchase claim, or promise of appreciation. Digital tokens carry market, custody, liquidity, smart-contract, and operational risks. Depending on jurisdiction and design, token rewards and competitive promotions can implicate gaming, sweepstakes, tax, consumer, and financial laws; tailored review is required before activating transferable-token prizes.
+
+Status as documented October 21, 2026: TDIA's token contract was previously deployed on Base mainnet; season payout features were not active; membership checkout was disabled. This repository document does not itself activate either feature or attest to current on-chain balances.
+
+For product details, see Diamond Bright AI and the official TDIA whitepaper.
